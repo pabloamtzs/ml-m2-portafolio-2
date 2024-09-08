@@ -25,3 +25,6 @@ pip install -r requirements.txt
 ```bash
 python portafolio/modelos.py
 ```
+
+## Resultados
+Los resultados detallados se encuentran en el archivo Análisis y Reporte Sobre el Desempeño del Modelo.pdf, donde se elige el mejor modelo para este dataset y se discute la precisión, la matriz de confusión, y las métricas de evaluación para cada modelo, incluyendo comparaciones visuales.

@@ -27,4 +27,6 @@ python portafolio/modelos.py
 ```
 
 ## Resultados
-Los resultados detallados se encuentran en el archivo Análisis y Reporte Sobre el Desempeño del Modelo.pdf, donde se elige el mejor modelo para este dataset y se discute la precisión, la matriz de confusión, y las métricas de evaluación para cada modelo, incluyendo comparaciones visuales.
+Los resultados detallados se encuentran en el archivo `Análisis y Reporte Sobre el Desempeño del Modelo.pdf`, donde se elige el mejor modelo para este dataset y se discute la precisión, la matriz de confusión, y las métricas de evaluación para cada modelo, incluyendo comparaciones visuales. 
+
+Además, en el archivo `Análisis del contexto y la normatividad.pdf`, se muestra la normatividad correspondiente del reto.
